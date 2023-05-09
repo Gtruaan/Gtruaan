@@ -1,4 +1,3 @@
-# Gustavo Truan
 ## Estudiante de Ingenieria en la UC de Chile  
 
 
