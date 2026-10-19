@@ -1,6 +1,3 @@
-## Estudiante de Ingenieria en la UC de Chile  
-
-
 ```python
 import requests
 from PIL import Image
